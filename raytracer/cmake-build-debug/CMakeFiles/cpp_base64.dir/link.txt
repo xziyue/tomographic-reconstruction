@@ -1,0 +1,2 @@
+/usr/bin/ar qc libcpp_base64.a CMakeFiles/cpp_base64.dir/library/cpp-base64/base64.cpp.o
+/usr/bin/ranlib libcpp_base64.a

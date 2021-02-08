@@ -1,0 +1,15 @@
+[submodule "raytracer/library/json"]
+	path = raytracer/library/json
+	url = https://github.com/nlohmann/json
+[submodule "raytracer/library/eigen-git-mirror"]
+	path = raytracer/library/eigen-git-mirror
+	url = https://github.com/eigenteam/eigen-git-mirror
+[submodule "raytracer/library/cpp-base64"]
+	path = raytracer/library/cpp-base64
+	url = https://github.com/ReneNyffenegger/cpp-base64
+[submodule "raytracer/library/gzip-hpp"]
+	path = raytracer/library/gzip-hpp
+	url = https://github.com/mapbox/gzip-hpp
+[submodule "raytracer/library/zlib"]
+	path = raytracer/library/zlib
+	url = https://github.com/madler/zlib

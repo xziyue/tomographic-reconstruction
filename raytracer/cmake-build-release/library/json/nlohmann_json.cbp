@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="nlohmann_json"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\library\;CMake Files\library\json\;CMake Files\library\json\cmake\;CMake Files\library\zlib\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/alan/Desktop/sinogram/raytracer/cmake-build-release/library/json"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/alan/Desktop/sinogram/raytracer/cmake-build-release/library/json/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/alan/Desktop/sinogram/raytracer/cmake-build-release/library/json/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/alan/Desktop/sinogram/raytracer/cmake-build-release/library/json/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/alan/Desktop/sinogram/raytracer/cmake-build-release/library/json/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/alan/Desktop/sinogram/raytracer/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/home/alan/Desktop/sinogram/raytracer/library/json/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\library\json\"/>
+		</Unit>
+		<Unit filename="/home/alan/Desktop/sinogram/raytracer/library/json/cmake/config.cmake.in">
+			<Option virtualFolder="CMake Files\library\json\cmake\"/>
+		</Unit>
+		<Unit filename="/home/alan/Desktop/sinogram/raytracer/library/json/cmake/nlohmann_jsonConfigVersion.cmake.in">
+			<Option virtualFolder="CMake Files\library\json\cmake\"/>
+		</Unit>
+		<Unit filename="/home/alan/Desktop/sinogram/raytracer/library/json/cmake/pkg-config.pc.in">
+			<Option virtualFolder="CMake Files\library\json\cmake\"/>
+		</Unit>
+		<Unit filename="/home/alan/Desktop/sinogram/raytracer/library/zlib/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\library\zlib\"/>
+		</Unit>
+		<Unit filename="/home/alan/Desktop/sinogram/raytracer/library/zlib/zconf.h.cmakein">
+			<Option virtualFolder="CMake Files\library\zlib\"/>
+		</Unit>
+		<Unit filename="/home/alan/Desktop/sinogram/raytracer/library/zlib/zlib.pc.cmakein">
+			<Option virtualFolder="CMake Files\library\zlib\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

@@ -1,0 +1,1 @@
+/usr/bin/cc -g -rdynamic CMakeFiles/minigzip.dir/test/minigzip.o -o ../../../bin/minigzip  -Wl,-rpath,/home/alan/Desktop/sinogram/raytracer/cmake-build-debug/library/zlib libz.so.1.2.11 

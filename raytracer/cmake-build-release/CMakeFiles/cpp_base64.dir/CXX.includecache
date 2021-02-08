@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/alan/Desktop/sinogram/raytracer/library/cpp-base64/base64.cpp
+base64.h
+/home/alan/Desktop/sinogram/raytracer/library/cpp-base64/base64.h
+algorithm
+-
+stdexcept
+-
+
+/home/alan/Desktop/sinogram/raytracer/library/cpp-base64/base64.h
+string
+-
+string_view
+-
+
