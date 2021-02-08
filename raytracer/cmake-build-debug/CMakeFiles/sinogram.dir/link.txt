@@ -1,1 +1,0 @@
-/usr/bin/c++ -g CMakeFiles/sinogram.dir/main.cpp.o -o sinogram 
