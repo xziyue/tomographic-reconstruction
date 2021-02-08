@@ -1,12 +1,15 @@
 # Tomographic reconstruction of ray-traced simulated X-ray image
 
 - The simulated X-ray images
+
   ![x-ray](./res/xray.gif)
 
 - Corresponding projection integral of 150th slice
+
   ![proj-int](./res/projection_integral.gif)
 
 - Final reconstruction of 300 slices
+
   ![recon](./res/reconstruction.gif)
 
 
